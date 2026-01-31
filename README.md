@@ -1,30 +1,25 @@
-<h1 align="center">Hi 👋, I'm Hrithik Gorane</h1>
-<h3 align="center">Java Full Stack Developer | Creative Builder | 3D Tech Explorer</h3>
+<h1 align="center">Hello there 👋, I'm Hrithik Gorane</h1>
+<h3 align="center"> As Human Creature focused  devlop new things </h3>
 
 ---
 
 🎯 **I don’t just code to work — I code to create.**
 
-I'm a developer who doesn't fit in the box. While others chase job titles, I chase mastery.  
-I'm currently rebuilding myself from scratch — mastering Java Full Stack Development while exploring 3D applications and AI.
+I'm a developer who doesn't fit in the box. 
 
 ---
 
 ### 🔧 Tech Stack I'm Working With:
-- **Languages**: Java, JavaScript, HTML, CSS
-- **Backend**: Core Java, JDBC, Servlet, JSP, Spring Boot (in progress)
-- **Frontend**: HTML/CSS/JS, React.js (coming soon), Three.js (for 3D web)
+- **Languages**: Python
 - **Database**: MySQL, MongoDB (basic)
-- **Tools**: IntelliJ IDEA, VS Code, Git, Postman
-- **Learning**: Docker, AWS, Microservices
+- **Tools**: VS Code, Git
+- **Learning**: ML | DL 
 
 ---
 
 ### 🧱 Current Focus:
 - 🔄 Relearning everything from ground zero
-- 🔥 Building real-world projects using Java
-- 💡 Exploring creative apps with 3D/Three.js
-- 🎥 Sharing my journey through YouTube Shorts and LinkedIn
+- 💡 Exploring creative 
 
 ---
 
@@ -42,6 +37,6 @@ I'm currently rebuilding myself from scratch — mastering Java Full Stack Devel
 ---
 
 ### 🚀 Fun Fact:
-I'm not chasing a placement. I’m building my own path.
+I'm where you're waiting for...
 
 ---
